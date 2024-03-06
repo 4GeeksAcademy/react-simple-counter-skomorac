@@ -1,12 +1,24 @@
+.simpleCounter {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 30px;
+    gap: 15px;
+    margin-top: 20px;
+    }
 
-/* 
+.card {
+    background-color: rgb(17, 16, 16);
+    color: white;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.iconClock {
+    font-size: 40px;
+}
 
-*/
+
+
+h5 {
+    font-size: 40px;
+    text-align: center;
+}
